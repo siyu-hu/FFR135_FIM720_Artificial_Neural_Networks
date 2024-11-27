@@ -1,6 +1,6 @@
 # FFR135 / FIM 720 Artificial Neural Networks 
 
-Chalmers University of Technology / University and Gothenburg
+Chalmers University of Technology / University of Gothenburg
 
 ## Homework problems 2024.9
 
