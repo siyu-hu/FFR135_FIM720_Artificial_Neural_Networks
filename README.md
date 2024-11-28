@@ -1,6 +1,7 @@
 # FFR135 / FIM 720 Artificial Neural Networks 
 
-Chalmers University of Technology / University of Gothenburg
+Author: [Zoe(Siyu) Hu](https://github.com/siyu-hu) 
+@University of Gothenburg / Chalmers University of Technology 
 
 ## Homework problems 2024.9
 
